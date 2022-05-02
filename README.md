@@ -1,5 +1,5 @@
 # Exercicio 3 Dia 25/04/2022
-Exercicio 3 Dia 25.04.2022, pode receber Habilitacao ou nao.
+Exercicio 3 Dia 25.04.2022, Pode Receber Habilitacao ou Nao.
 
 - Inicio
   -  Se exisite teste psicotecnico ? Faça
